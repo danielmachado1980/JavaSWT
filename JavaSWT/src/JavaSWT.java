@@ -1,6 +1,7 @@
 import org.eclipse.swt.widgets.Display;
 import org.eclipse.swt.widgets.Shell;
 
+//Classe Principal do Programa
 public class JavaSWT {
 
 	public static void main(String[] args) {
